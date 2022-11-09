@@ -1,0 +1,5702 @@
+[
+    {
+      "qid": 1,
+      "question": {
+        "text": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …\n"
+      },
+      "answers": [
+        "hier Religionsfreiheit gilt.",
+        "die Menschen Steuern zahlen.",
+        "die Menschen das Wahlrecht haben.",
+        "hier Meinungsfreiheit gilt."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 2,
+      "question": {
+        "text": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …\n"
+      },
+      "answers": [
+        "Geschichtsunterricht teilnimmt.",
+        "Religionsunterricht teilnimmt.",
+        "Politikunterricht teilnimmt.",
+        "Sprachunterricht teilnimmt."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 3,
+      "question": {
+        "text": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?\n"
+      },
+      "answers": [
+        "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+        "Der Staat muss sich nicht an die Gesetze halten.",
+        "Nur Deutsche müssen die Gesetze befolgen.",
+        "Die Gerichte machen die Gesetze."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 4,
+      "question": {
+        "text": "Welches Recht gehört zu den Grundrechten in Deutschland?\n"
+      },
+      "answers": [
+        "Waffenbesitz",
+        "Faustrecht",
+        "Meinungsfreiheit",
+        "Selbstjustiz"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 5,
+      "question": {
+        "text": "Wahlen in Deutschland sind frei. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.",
+        "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+        "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+        "Alle wahlberechtigten Personen müssen wählen."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 6,
+      "question": {
+        "text": "Wie heißt die deutsche Verfassung?\n"
+      },
+      "answers": [
+        "Volksgesetz",
+        "Bundesgesetz",
+        "Deutsches Gesetz",
+        "Grundgesetz"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 7,
+      "question": {
+        "text": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …"
+      },
+      "answers": [
+        "Glaubens- und Gewissensfreiheit.",
+        "Unterhaltung.",
+        "Arbeit.",
+        "Wohnung."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 8,
+      "question": {
+        "text": "Was steht nicht im Grundgesetz von Deutschland?\n"
+      },
+      "answers": [
+        "Die Würde des Menschen ist unantastbar.",
+        "Alle sollen gleich viel Geld haben.",
+        "Jeder Mensch darf seine Meinung sagen.",
+        "Alle sind vor dem Gesetz gleich."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 9,
+      "question": {
+        "text": "Welches Grundrecht gilt in Deutschland nur für Ausländer / Ausländerinnen? Das Grundrecht auf …\n"
+      },
+      "answers": [
+        "Schutz der Familie",
+        "Menschenwürde",
+        "Asyl",
+        "Meinungsfreiheit"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 10,
+      "question": {
+        "text": "Was ist mit dem deutschen Grundgesetz vereinbar?\n"
+      },
+      "answers": [
+        "die Prügelstrafe",
+        "die Folter",
+        "die Todesstrafe",
+        "die Geldstrafe"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 11,
+      "question": {
+        "text": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?\n"
+      },
+      "answers": [
+        "Grundgesetz",
+        "Bundesverfassung",
+        "Gesetzbuch",
+        "Verfassungsvertrag"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 12,
+      "question": {
+        "text": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?\n"
+      },
+      "answers": [
+        "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+        "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+        "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+        "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 13,
+      "question": {
+        "text": "Im Parlament steht der Begriff „Opposition“ für ...\n"
+      },
+      "answers": [
+        "die regierenden Parteien.",
+        "die Fraktion mit den meisten Abgeordneten.",
+        "alle Parteien, die bei der letzten Wahl die 5%- Hürde erreichen konnten.",
+        "alle Abgeordneten, die nicht zu der/den Regierungspartei/en gehören."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 14,
+      "question": {
+        "text": "Meinungsfreiheit in Deutschland heißt, dass ich …\n"
+      },
+      "answers": [
+        "auf Flugblättern falsche Tatsachen behaupten darf.",
+        "meine Meinung in Leserbriefen äußern kann.",
+        "Nazi- Symbole tragen darf.",
+        "meine Meinung sagen darf, solange ich der Regierung nicht widerspreche."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 15,
+      "question": {
+        "text": "Was verbietet das deutsche Grundgesetz?\n"
+      },
+      "answers": [
+        "Militärdienst",
+        "Zwangsarbeit",
+        "freie Berufswahl",
+        "Arbeit im Ausland"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 16,
+      "question": {
+        "text": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?\n"
+      },
+      "answers": [
+        "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+        "bei Meinungsäußerungen über die Bundesregierung",
+        "bei Diskussionen über Religionen",
+        "bei Kritik am Staat"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 17,
+      "question": {
+        "text": "Die deutschen Gesetze verbieten …\n"
+      },
+      "answers": [
+        "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+        "Petitionen der Bürger und Bürgerinnen.",
+        "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+        "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 18,
+      "question": {
+        "text": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?\n"
+      },
+      "answers": [
+        "die Unantastbarkeit der Menschenwürde",
+        "das Recht auf Leben",
+        "Religionsfreiheit",
+        "Meinungsfreiheit"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 19,
+      "question": {
+        "text": "Was versteht man unter dem Recht der „Freizügigkeit“ in Deutschland?\n"
+      },
+      "answers": [
+        "Man darf sich seinen Wohnort selbst aussuchen.",
+        "Man kann seinen Beruf wechseln.",
+        "Man darf sich für eine andere Religion entscheiden.",
+        "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 20,
+      "question": {
+        "text": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …\n"
+      },
+      "answers": [
+        "tolerant.",
+        "rechtsstaatlich orientiert.",
+        "gesetzestreu.",
+        "verfassungswidrig."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 21,
+      "question": {
+        "text": "Welches ist das Wappen der Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Staatssymbole"
+      }
+    },
+    {
+      "qid": 22,
+      "question": {
+        "text": "Was für eine Staatsform hat Deutschland?\n"
+      },
+      "answers": [
+        "Monarchie",
+        "Diktatur",
+        "Republik",
+        "Fürstentum"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 23,
+      "question": {
+        "text": "In Deutschland sind die meisten Erwerbstätigen …\n"
+      },
+      "answers": [
+        "in kleinen Familienunternehmen beschäftigt.",
+        "ehrenamtlich für ein Bundesland tätig.",
+        "selbständig mit einer eigenen Firma tätig.",
+        "bei einer Firma oder Behörde beschäftigt."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 24,
+      "question": {
+        "text": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 25,
+      "question": {
+        "text": "Was ist kein Bundesland der Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "Elsass- Lothringen",
+        "Nordrhein- Westfalen",
+        "Mecklenburg- Vorpommern",
+        "Sachsen- Anhalt"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 26,
+      "question": {
+        "text": "Deutschland ist …\n"
+      },
+      "answers": [
+        "eine kommunistische Republik.",
+        "ein demokratischer und sozialer Bundesstaat.",
+        "eine kapitalistische und soziale Monarchie.",
+        "ein sozialer und sozialistischer Bundesstaat."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 27,
+      "question": {
+        "text": "Deutschland ist …\n"
+      },
+      "answers": [
+        "ein sozialistischer Staat.",
+        "ein Bundesstaat.",
+        "eine Diktatur.",
+        "eine Monarchie."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 28,
+      "question": {
+        "text": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?\n"
+      },
+      "answers": [
+        "das Militär",
+        "die Wirtschaft",
+        "das wahlberechtigte Volk",
+        "die Verwaltung"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 29,
+      "question": {
+        "text": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "Löwe",
+        "Adler",
+        "Bär",
+        "Pferd"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Staatssymbole"
+      }
+    },
+    {
+      "qid": 30,
+      "question": {
+        "text": "Was ist kein Merkmal unserer Demokratie?\n"
+      },
+      "answers": [
+        "regelmäßige Wahlen",
+        "Pressezensur",
+        "Meinungsfreiheit",
+        "verschiedene Parteien"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 31,
+      "question": {
+        "text": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …\n"
+      },
+      "answers": [
+        "Einheit.",
+        "Koalition.",
+        "Ministerium.",
+        "Fraktion."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 32,
+      "question": {
+        "text": "Was ist keine staatliche Gewalt in Deutschland?\n"
+      },
+      "answers": [
+        "Gesetzgebung",
+        "Regierung",
+        "Presse",
+        "Rechtsprechung"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 33,
+      "question": {
+        "text": "Welche Aussage ist richtig? In Deutschland …\n"
+      },
+      "answers": [
+        "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+        "bilden die Religionsgemeinschaften den Staat.",
+        "ist der Staat abhängig von den Religionsgemeinschaften.",
+        "bilden Staat und Religionsgemeinschaften eine Einheit."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Religiöse Vielfalt"
+      }
+    },
+    {
+      "qid": 34,
+      "question": {
+        "text": "Was ist Deutschland nicht?\n"
+      },
+      "answers": [
+        "eine Demokratie",
+        "ein Rechtsstaat",
+        "eine Monarchie",
+        "ein Sozialstaat"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 35,
+      "question": {
+        "text": "Womit finanziert der deutsche Staat die Sozialversicherung?\n"
+      },
+      "answers": [
+        "Kirchensteuern",
+        "Sozialabgaben",
+        "Spendengeldern",
+        "Vereinsbeiträgen"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 36,
+      "question": {
+        "text": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?\n"
+      },
+      "answers": [
+        "die Krankenversicherung",
+        "die Autoversicherung",
+        "die Gebäudeversicherung",
+        "die Haftpflichtversicherung"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 37,
+      "question": {
+        "text": "Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesländer in Deutschland genannt?\n"
+      },
+      "answers": [
+        "Erster Minister/ Erste Ministerin",
+        "Premierminister/ Premierministerin",
+        "Senator/ Senatorin",
+        "Ministerpräsident/ Ministerpräsidentin"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 38,
+      "question": {
+        "text": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …\n"
+      },
+      "answers": [
+        "Staatenverbund.",
+        "Bundesstaat.",
+        "Staatenbund.",
+        "Zentralstaat."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 39,
+      "question": {
+        "text": "Was hat jedes deutsche Bundesland?\n"
+      },
+      "answers": [
+        "einen eigenen Außenminister / eine eigene Außenministerin",
+        "eine eigene Währung",
+        "eine eigene Armee",
+        "eine eigene Regierung"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 40,
+      "question": {
+        "text": "Mit welchen Worten beginnt die deutsche Nationalhymne?\n"
+      },
+      "answers": [
+        "Völker, hört die Signale …",
+        "Einigkeit und Recht und Freiheit …",
+        "Freude schöner Götterfunken …",
+        "Deutschland einig Vaterland …"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Staatssymbole"
+      }
+    },
+    {
+      "qid": 41,
+      "question": {
+        "text": "Warum gibt es in einer Demokratie mehr als eine Partei?\n"
+      },
+      "answers": [
+        "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+        "damit Bestechung in der Politik begrenzt wird",
+        "um politische Demonstrationen zu verhindern",
+        "um wirtschaftlichen Wettbewerb anzuregen"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 42,
+      "question": {
+        "text": "Wer beschließt in Deutschland ein neues Gesetz?\n"
+      },
+      "answers": [
+        "die Regierung",
+        "das Parlament",
+        "die Gerichte",
+        "die Polizei"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 43,
+      "question": {
+        "text": "Wann kann in Deutschland eine Partei verboten werden?\n"
+      },
+      "answers": [
+        "wenn ihr Wahlkampf zu teuer ist",
+        "wenn sie gegen die Verfassung kämpft",
+        "wenn sie Kritik am Staatsoberhaupt äußert",
+        "wenn ihr Programm eine neue Richtung vorschlägt"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 44,
+      "question": {
+        "text": "Wen kann man als Bürger / Bürgerin in Deutschland nicht direkt wählen?\n"
+      },
+      "answers": [
+        "Abgeordnete des EU- Parlaments",
+        "den Bundespräsidenten / die Bundespräsidentin",
+        "Landtagsabgeordnete",
+        "Bundestagsabgeordnete"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 45,
+      "question": {
+        "text": "Zu welcher Versicherung gehört die Pflegeversicherung?\n"
+      },
+      "answers": [
+        "Sozialversicherung",
+        "Unfallversicherung",
+        "Hausratversicherung",
+        "Haftpflicht- und Feuerversicherung"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 46,
+      "question": {
+        "text": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?\n"
+      },
+      "answers": [
+        "Er baut Straßen und Schulen.",
+        "Er verkauft Lebensmittel und Kleidung.",
+        "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+        "Er produziert Autos und Busse."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Aufgaben des Staates"
+      }
+    },
+    {
+      "qid": 47,
+      "question": {
+        "text": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?\n"
+      },
+      "answers": [
+        "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+        "Er zahlt Kindergeld.",
+        "Er unterstützt Museen.",
+        "Er fördert Sportler und Sportlerinnen."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Aufgaben des Staates"
+      }
+    },
+    {
+      "qid": 48,
+      "question": {
+        "text": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?\n"
+      },
+      "answers": [
+        "der Bundesrat",
+        "der Bundespräsident / die Bundespräsidentin",
+        "die Bürgerversammlung",
+        "die Regierung"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 49,
+      "question": {
+        "text": "Wer bestimmt in Deutschland die Schulpolitik?\n"
+      },
+      "answers": [
+        "die Lehrer und Lehrerinnen",
+        "die Bundesländer",
+        "das Familienministerium",
+        "die Universitäten"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 50,
+      "question": {
+        "text": "Die Wirtschaftsform in Deutschland nennt man …\n"
+      },
+      "answers": [
+        "freie Zentralwirtschaft.",
+        "soziale Marktwirtschaft.",
+        "gelenkte Zentralwirtschaft.",
+        "Planwirtschaft."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 51,
+      "question": {
+        "text": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass ...\n"
+      },
+      "answers": [
+        "Menschen sich kritisch über die Regierung äußern können.",
+        "Bürger friedlich demonstrieren gehen dürfen.",
+        "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+        "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 52,
+      "question": {
+        "text": "Was bedeutet „Volkssouveränität“? Alle Staatsgewalt geht vom …\n"
+      },
+      "answers": [
+        "Volke aus.",
+        "Bundestag aus.",
+        "preußischen König aus.",
+        "Bundesverfassungsgericht aus."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 53,
+      "question": {
+        "text": "Was bedeutet „Rechtsstaat“ in Deutschland?\n"
+      },
+      "answers": [
+        "Der Staat hat Recht.",
+        "Es gibt nur rechte Parteien.",
+        "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+        "Der Staat muss die Gesetze einhalten."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 54,
+      "question": {
+        "text": "Was ist keine staatliche Gewalt in Deutschland?\n"
+      },
+      "answers": [
+        "Legislative",
+        "Judikative",
+        "Exekutive",
+        "Direktive"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 55,
+      "question": {
+        "text": "Was zeigt dieses Bild?\n"
+      },
+      "answers": [
+        "den Bundestagssitz in Berlin",
+        "das Bundesverfassungsgericht in Karlsruhe",
+        "das Bundesratsgebäude in Berlin",
+        "das Bundeskanzleramt in Berlin"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 56,
+      "question": {
+        "text": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?\n"
+      },
+      "answers": [
+        "Pfarramt",
+        "Ordnungsamt",
+        "Finanzamt",
+        "Auswärtiges Amt"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 57,
+      "question": {
+        "text": "Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt?\n"
+      },
+      "answers": [
+        "der / die älteste Abgeordnete im Parlament",
+        "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes",
+        "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin",
+        "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 58,
+      "question": {
+        "text": "Wer ernennt in Deutschland die Minister / die Ministerinnen der Bundesregierung?\n"
+      },
+      "answers": [
+        "der Präsident / die Präsidentin des Bundesverfassungsgerichtes",
+        "der Bundespräsident / die Bundespräsidentin",
+        "der Bundesratspräsident / die Bundesratspräsidentin",
+        "der Bundestagspräsident / die Bundestagspräsidentin"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 59,
+      "question": {
+        "text": "Welche Parteien wurden in Deutschland 2007 zur Partei „Die Linke“?\n"
+      },
+      "answers": [
+        "CDU und SSW",
+        "PDS und WASG",
+        "CSU und FDP",
+        "Bündnis 90/Die Grünen und SPD"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 60,
+      "question": {
+        "text": "In Deutschland gehören der Bundestag und der Bundesrat zur …\n"
+      },
+      "answers": [
+        "Exekutive.",
+        "Legislative.",
+        "Direktive.",
+        "Judikative."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 61,
+      "question": {
+        "text": "Was bedeutet „Volkssouveränität“?\n"
+      },
+      "answers": [
+        "Der König / die Königin herrscht über das Volk.",
+        "Das Bundesverfassungsgericht steht über der Verfassung.",
+        "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+        "Die Staatsgewalt geht vom Volke aus."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 62,
+      "question": {
+        "text": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …\n"
+      },
+      "answers": [
+        "Kommunalwahl.",
+        "Landtagswahl.",
+        "Europawahl.",
+        "Bundestagswahl."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 63,
+      "question": {
+        "text": "Was gehört in Deutschland nicht zur Exekutive?\n"
+      },
+      "answers": [
+        "die Polizei",
+        "die Gerichte",
+        "das Finanzamt",
+        "die Ministerien"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 64,
+      "question": {
+        "text": "Die Bundesrepublik Deutschland ist heute gegliedert in …\n"
+      },
+      "answers": [
+        "vier Besatzungszonen.",
+        "einen Oststaat und einen Weststaat.",
+        "16 Kantone.",
+        "Bund, Länder und Kommunen."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 65,
+      "question": {
+        "text": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …\n"
+      },
+      "answers": [
+        "Gesetze zu entwerfen.",
+        "die Bundesregierung zu kontrollieren.",
+        "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
+        "das Bundeskabinett zu bilden."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 66,
+      "question": {
+        "text": "Wer schrieb den Text zur deutschen Nationalhymne?\n"
+      },
+      "answers": [
+        "Friedrich von Schiller",
+        "Clemens Brentano",
+        "Johann Wolfgang von Goethe",
+        "Heinrich Hoffmann von Fallersleben"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Staatssymbole"
+      }
+    },
+    {
+      "qid": 67,
+      "question": {
+        "text": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?\n"
+      },
+      "answers": [
+        "Verteidigungspolitik",
+        "Außenpolitik",
+        "Wirtschaftspolitik",
+        "Schulpolitik"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Föderalismus"
+      }
+    },
+    {
+      "qid": 68,
+      "question": {
+        "text": "Warum kontrolliert der Staat in Deutschland das Schulwesen?\n"
+      },
+      "answers": [
+        "weil es in Deutschland nur staatliche Schulen gibt",
+        "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
+        "weil es in den Bundesländern verschiedene Schulen gibt",
+        "weil es nach dem Grundgesetz seine Aufgabe ist"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Aufgaben des Staates"
+      }
+    },
+    {
+      "qid": 69,
+      "question": {
+        "text": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?\n"
+      },
+      "answers": [
+        "Stadträte",
+        "Landräte",
+        "Gemeinden und Kommunen",
+        "Bezirksämter"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 70,
+      "question": {
+        "text": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?\n"
+      },
+      "answers": [
+        "Er / Sie führt die Regierungsgeschäfte.",
+        "Er / Sie kontrolliert die Regierungspartei.",
+        "Er / Sie wählt die Minister / Ministerinnen aus.",
+        "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 71,
+      "question": {
+        "text": "Wo hält sich der deutsche Bundeskanzler/die deutsche Bundeskanzlerin am häufigsten auf? Am häufigsten ist er/sie ...\n"
+      },
+      "answers": [
+        "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+        "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+        "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.",
+        "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 72,
+      "question": {
+        "text": "Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?\n"
+      },
+      "answers": [
+        "Gerhard Schröder",
+        "Jürgen Rüttgers",
+        "Klaus Wowereit",
+        "Angela Merkel"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 73,
+      "question": {
+        "text": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …\n"
+      },
+      "answers": [
+        "CDU/CSU und SPD.",
+        "Die Linke und Bündnis 90/Die Grünen.",
+        "FDP und SPD.",
+        "Die Linke und FDP."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 74,
+      "question": {
+        "text": "Wie heißt das Parlament für ganz Deutschland?\n"
+      },
+      "answers": [
+        "Bundesversammlung",
+        "Volkskammer",
+        "Bundestag",
+        "Bundesgerichtshof"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 75,
+      "question": {
+        "text": "Wie heißt Deutschlands heutiges Staatsoberhaupt?\n"
+      },
+      "answers": [
+        "Frank- Walter Steinmeier",
+        "Norbert Lammert",
+        "Wolfgang Thierse",
+        "Edmund Stoiber"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 76,
+      "question": {
+        "text": "Was bedeutet die Abkürzung CDU in Deutschland?\n"
+      },
+      "answers": [
+        "Christliche Deutsche Union",
+        "Club Deutscher Unternehmer",
+        "Christlicher Deutscher Umweltschutz",
+        "Christlich Demokratische Union"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 77,
+      "question": {
+        "text": "Was ist die Bundeswehr?\n"
+      },
+      "answers": [
+        "die deutsche Polizei",
+        "ein deutscher Hafen",
+        "eine deutsche Bürgerinitiative",
+        "die deutsche Armee"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Aufgaben des Staates"
+      }
+    },
+    {
+      "qid": 78,
+      "question": {
+        "text": "Was bedeutet die Abkürzung SPD?\n"
+      },
+      "answers": [
+        "Sozialistische Partei Deutschlands",
+        "Sozialpolitische Partei Deutschlands",
+        "Sozialdemokratische Partei Deutschlands",
+        "Sozialgerechte Partei Deutschlands"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 79,
+      "question": {
+        "text": "Was bedeutet die Abkürzung FDP in Deutschland?\n"
+      },
+      "answers": [
+        "Friedliche Demonstrative Partei",
+        "Freie Deutschland Partei",
+        "Führende Demokratische Partei",
+        "Freie Demokratische Partei"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 80,
+      "question": {
+        "text": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?\n"
+      },
+      "answers": [
+        "Oberlandesgericht",
+        "Amtsgericht",
+        "Bundesverfassungsgericht",
+        "Verwaltungsgericht"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 81,
+      "question": {
+        "text": "Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?\n"
+      },
+      "answers": [
+        "der Bundesrat",
+        "die Bundesversammlung",
+        "das Volk",
+        "der Bundestag"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 82,
+      "question": {
+        "text": "Wer leitet das deutsche Bundeskabinett?\n"
+      },
+      "answers": [
+        "der Bundestagspräsident / die Bundestagspräsidentin",
+        "der Bundespräsident / die Bundespräsidentin",
+        "der Bundesratspräsident / die Bundesratspräsidentin",
+        "der Bundeskanzler / die Bundeskanzlerin"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 83,
+      "question": {
+        "text": "Wer wählt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?\n"
+      },
+      "answers": [
+        "das Volk",
+        "die Bundesversammlung",
+        "der Bundestag",
+        "die Bundesregierung"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 84,
+      "question": {
+        "text": "Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er / Sie …\n"
+      },
+      "answers": [
+        "regiert das Land.",
+        "entwirft die Gesetze.",
+        "repräsentiert das Land.",
+        "überwacht die Einhaltung der Gesetze."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 85,
+      "question": {
+        "text": "Wer bildet den deutschen Bundesrat?\n"
+      },
+      "answers": [
+        "die Abgeordneten des Bundestages",
+        "die Minister und Ministerinnen der Bundesregierung",
+        "die Regierungsvertreter der Bundesländer",
+        "die Parteimitglieder"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 86,
+      "question": {
+        "text": "Wer wählt in Deutschland den Bundespräsidenten / die Bundespräsidentin?\n"
+      },
+      "answers": [
+        "die Bundesversammlung",
+        "der Bundesrat",
+        "das Bundesparlament",
+        "das Bundesverfassungsgericht"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 87,
+      "question": {
+        "text": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "der Bundeskanzler / die Bundeskanzlerin",
+        "der Bundespräsident / die Bundespräsidentin",
+        "der Bundesratspräsident / die Bundesratspräsidentin",
+        "der Bundestagspräsident / die Bundestagspräsidentin"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 88,
+      "question": {
+        "text": "Die parlamentarische Opposition im Deutschen Bundestag …\n"
+      },
+      "answers": [
+        "kontrolliert die Regierung.",
+        "entscheidet, wer Bundesminister / Bundesministerin wird.",
+        "bestimmt, wer im Bundesrat sitzt.",
+        "schlägt die Regierungschefs / Regierungschefinnen der Länder vor."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 89,
+      "question": {
+        "text": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?\n"
+      },
+      "answers": [
+        "Verband",
+        "Ältestenrat",
+        "Fraktion",
+        "Opposition"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 90,
+      "question": {
+        "text": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …\n"
+      },
+      "answers": [
+        "den Bundesrat.",
+        "die Bundesversammlung.",
+        "den Bundestag.",
+        "die Bundesregierung."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 91,
+      "question": {
+        "text": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …\n"
+      },
+      "answers": [
+        "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+        "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+        "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+        "leichter, wenn es sich um ein reiches Bundesland handelt."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 92,
+      "question": {
+        "text": "Was bedeutet die Abkürzung CSU in Deutschland?\n"
+      },
+      "answers": [
+        "Christlich Sichere Union",
+        "Christlich Süddeutsche Union",
+        "Christlich Sozialer Unternehmerverband",
+        "Christlich Soziale Union"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 93,
+      "question": {
+        "text": "Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto …\n"
+      },
+      "answers": [
+        "weniger Erststimmen kann sie haben.",
+        "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+        "größer ist das Risiko, eine Koalition bilden zu müssen.",
+        "mehr Sitze erhält die Partei im Parlament."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 94,
+      "question": {
+        "text": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?\n"
+      },
+      "answers": [
+        "16",
+        "18",
+        "21",
+        "23"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 95,
+      "question": {
+        "text": "Was gilt für die meisten Kinder in Deutschland?\n"
+      },
+      "answers": [
+        "Wahlpflicht",
+        "Schulpflicht",
+        "Schweigepflicht",
+        "Religionspflicht"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 96,
+      "question": {
+        "text": "Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. Lebensjahr besitzen?\n"
+      },
+      "answers": [
+        "einen Reisepass",
+        "einen Personalausweis",
+        "einen Sozialversicherungsausweis",
+        "einen Führerschein"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 97,
+      "question": {
+        "text": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?\n"
+      },
+      "answers": [
+        "Sozialversicherung",
+        "Sozialhilfe",
+        "Kindergeld",
+        "Wohngeld"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 98,
+      "question": {
+        "text": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …\n"
+      },
+      "answers": [
+        "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+        "kann die Regierung ihre Mehrheit verlieren.",
+        "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.",
+        "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 99,
+      "question": {
+        "text": "Wer bezahlt in Deutschland die Sozialversicherungen?\n"
+      },
+      "answers": [
+        "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+        "nur Arbeitnehmer / Arbeitnehmerinnen",
+        "alle Staatsangehörigen",
+        "nur Arbeitgeber / Arbeitgeberinnen"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 100,
+      "question": {
+        "text": "Was gehört nicht zur gesetzlichen Sozialversicherung?\n"
+      },
+      "answers": [
+        "die Lebensversicherung",
+        "die gesetzliche Rentenversicherung",
+        "die Arbeitslosenversicherung",
+        "die Pflegeversicherung"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 101,
+      "question": {
+        "text": "Gewerkschaften sind Interessenverbände der …\n"
+      },
+      "answers": [
+        "Jugendlichen.",
+        "Arbeitnehmer und Arbeitnehmerinnen.",
+        "Rentner und Rentnerinnen.",
+        "Arbeitgeber und Arbeitgeberinnen."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 102,
+      "question": {
+        "text": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …\n"
+      },
+      "answers": [
+        "Bundesverdienstkreuz",
+        "Bundesadler",
+        "Vaterländischen Verdienstorden",
+        "Ehrentitel „Held der Deutschen Demokratischen Republik“"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 103,
+      "question": {
+        "text": "Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die Zusammenarbeit ...\n"
+      },
+      "answers": [
+        "der Bundestagsfraktionen von CDU und CSU",
+        "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+        "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+        "der Bundestagsfraktionen von CDU und SPD"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Parteien"
+      }
+    },
+    {
+      "qid": 104,
+      "question": {
+        "text": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?\n"
+      },
+      "answers": [
+        "Die Frau ist lange krank und arbeitsunfähig.",
+        "Die Frau kam oft zu spät zur Arbeit.",
+        "Die Frau erledigt private Sachen während der Arbeitszeit.",
+        "Die Frau bekommt ein Kind und ihr Chef weiß das."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 105,
+      "question": {
+        "text": "Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?\n"
+      },
+      "answers": [
+        "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+        "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+        "Sie geben Zwischenergebnisse an die Medien weiter.",
+        "Sie zählen die Stimmen nach dem Ende der Wahl."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 106,
+      "question": {
+        "text": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?\n"
+      },
+      "answers": [
+        "Sie helfen Kindern und alten Menschen beim Wählen.",
+        "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+        "Sie geben Zwischenergebnisse an Journalisten weiter.",
+        "Sie zählen die Stimmen nach dem Ende der Wahl."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 107,
+      "question": {
+        "text": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?\n"
+      },
+      "answers": [
+        "2 Jahre",
+        "4 Jahre",
+        "6 Jahre",
+        "8 Jahre"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 108,
+      "question": {
+        "text": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, der …\n"
+      },
+      "answers": [
+        "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+        "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+        "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+        "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 109,
+      "question": {
+        "text": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?\n"
+      },
+      "answers": [
+        "alle drei Jahre",
+        "alle vier Jahre",
+        "alle fünf Jahre",
+        "alle sechs Jahre"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 110,
+      "question": {
+        "text": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?\n"
+      },
+      "answers": [
+        "2 Jahre",
+        "3 Jahre",
+        "4 Jahre",
+        "5 Jahre"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 111,
+      "question": {
+        "text": "In Deutschland darf man wählen. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.",
+        "Nur verheiratete Personen dürfen wählen.",
+        "Nur Personen mit einem festen Arbeitsplatz dürfen wählen.",
+        "Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 112,
+      "question": {
+        "text": "Die Wahlen in Deutschland sind …\n"
+      },
+      "answers": [
+        "speziell.",
+        "geheim.",
+        "berufsbezogen.",
+        "geschlechtsabhängig."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 113,
+      "question": {
+        "text": "Wahlen in Deutschland gewinnt die Partei, die …\n"
+      },
+      "answers": [
+        "die meisten Stimmen bekommt.",
+        "die meisten Männer mehrheitlich gewählt haben.",
+        "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+        "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 114,
+      "question": {
+        "text": "An demokratischen Wahlen in Deutschland teilzunehmen ist …\n"
+      },
+      "answers": [
+        "eine Pflicht.",
+        "ein Recht.",
+        "ein Zwang.",
+        "eine Last."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 115,
+      "question": {
+        "text": "Was bedeutet „aktives Wahlrecht“ in Deutschland?\n"
+      },
+      "answers": [
+        "Man kann gewählt werden.",
+        "Man muss wählen gehen.",
+        "Man kann wählen.",
+        "Man muss zur Auszählung der Stimmen gehen."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 116,
+      "question": {
+        "text": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …\n"
+      },
+      "answers": [
+        "aktive Wahlkampagne.",
+        "aktives Wahlverfahren.",
+        "aktiver Wahlkampf.",
+        "aktives Wahlrecht."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 117,
+      "question": {
+        "text": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?\n"
+      },
+      "answers": [
+        "3%",
+        "4%",
+        "5%",
+        "6%"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 118,
+      "question": {
+        "text": "Was regelt das Wahlrecht in Deutschland?\n"
+      },
+      "answers": [
+        "Wer wählen darf, muss wählen.",
+        "Alle die wollen, können wählen.",
+        "Wer nicht wählt, verliert das Recht zu wählen.",
+        "Wer wählen darf, kann wählen."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 119,
+      "question": {
+        "text": "Wahlen in Deutschland sind frei. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
+        "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+        "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+        "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 120,
+      "question": {
+        "text": "Das Wahlsystem in Deutschland ist ein …\n"
+      },
+      "answers": [
+        "Zensuswahlrecht.",
+        "Dreiklassenwahlrecht.",
+        "Mehrheits- und Verhältniswahlrecht.",
+        "allgemeines Männerwahlrecht."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 121,
+      "question": {
+        "text": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt ...\n"
+      },
+      "answers": [
+        "5%- Hürde.",
+        "Zulassungsgrenze.",
+        "Basiswert.",
+        "Richtlinie."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 122,
+      "question": {
+        "text": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …\n"
+      },
+      "answers": [
+        "frei, gleich, geheim.",
+        "offen, sicher, frei.",
+        "geschlossen, gleich, sicher.",
+        "sicher, offen, freiwillig."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 123,
+      "question": {
+        "text": "Was ist in Deutschland die „5%- Hürde“?\n"
+      },
+      "answers": [
+        "Abstimmungsregelung im Bundestag für kleine Parteien",
+        "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+        "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+        "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 124,
+      "question": {
+        "text": "Die Bundestagswahl in Deutschland ist die Wahl …\n"
+      },
+      "answers": [
+        "des Bundeskanzlers / der Bundeskanzlerin.",
+        "der Parlamente der Länder.",
+        "des Parlaments für Deutschland.",
+        "des Bundespräsidenten / der Bundespräsidentin."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 125,
+      "question": {
+        "text": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …\n"
+      },
+      "answers": [
+        "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+        "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+        "im Land bestehende Gesetze beizubehalten.",
+        "den Armen mehr Macht zu geben."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 126,
+      "question": {
+        "text": "Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?\n"
+      },
+      "answers": [
+        "eine Wahlbenachrichtigung von der Gemeinde",
+        "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
+        "eine Benachrichtigung von der Bundesversammlung",
+        "eine Benachrichtigung vom Pfarramt"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 127,
+      "question": {
+        "text": "Warum gibt es die 5 %- Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …\n"
+      },
+      "answers": [
+        "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+        "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
+        "viele kleine Parteien die Regierungsbildung erschweren.",
+        "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 128,
+      "question": {
+        "text": "Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man …\n"
+      },
+      "answers": [
+        "Abgeordnete.",
+        "Kanzler / Kanzlerinnen.",
+        "Botschafter / Botschafterinnen.",
+        "Ministerpräsidenten / Ministerpräsidentinnen."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 129,
+      "question": {
+        "text": "Vom Volk gewählt wird in Deutschland …\n"
+      },
+      "answers": [
+        "der Bundeskanzler / die Bundeskanzlerin.",
+        "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
+        "der Bundestag.",
+        "der Bundespräsident / die Bundespräsidentin."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsorgane"
+      }
+    },
+    {
+      "qid": 130,
+      "question": {
+        "text": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?\n"
+      },
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 131,
+      "question": {
+        "text": "In Deutschland ist ein Bürgermeister / eine Bürgermeisterin …\n"
+      },
+      "answers": [
+        "der Leiter / die Leiterin einer Schule.",
+        "der Chef / die Chefin einer Bank.",
+        "das Oberhaupt einer Gemeinde.",
+        "der / die Vorsitzende einer Partei."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 132,
+      "question": {
+        "text": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Sie arbeiten als Soldaten / Soldatinnen.",
+        "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+        "Sie arbeiten in der Bundesregierung.",
+        "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 133,
+      "question": {
+        "text": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?\n"
+      },
+      "answers": [
+        "Der Ehemann wählt für seine Frau mit.",
+        "Man kann durch Briefwahl seine Stimme abgeben.",
+        "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+        "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 134,
+      "question": {
+        "text": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?\n"
+      },
+      "answers": [
+        "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+        "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+        "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+        "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Wahlen und Beteiligung"
+      }
+    },
+    {
+      "qid": 135,
+      "question": {
+        "text": "Wen vertreten die Gewerkschaften in Deutschland?\n"
+      },
+      "answers": [
+        "große Unternehmen",
+        "kleine Unternehmen",
+        "Selbständige",
+        "Arbeitnehmer und Arbeitnehmerinnen"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 136,
+      "question": {
+        "text": "Sie gehen in Deutschland zum Arbeitsgericht bei …\n"
+      },
+      "answers": [
+        "falscher Nebenkostenabrechnung.",
+        "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+        "Problemen mit den Nachbarn / Nachbarinnen.",
+        "Schwierigkeiten nach einem Verkehrsunfall."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 137,
+      "question": {
+        "text": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?\n"
+      },
+      "answers": [
+        "das Familiengericht",
+        "das Strafgericht",
+        "das Arbeitsgericht",
+        "das Amtsgericht"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 138,
+      "question": {
+        "text": "Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?\n"
+      },
+      "answers": [
+        "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+        "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
+        "Kündigungsschutzklage erheben",
+        "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 139,
+      "question": {
+        "text": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …\n"
+      },
+      "answers": [
+        "zu einer anderen Religion übertritt.",
+        "eine Straftat begangen hat und angeklagt wird.",
+        "eine andere Meinung als die der Regierung vertritt.",
+        "sein Auto falsch geparkt hat und es abgeschleppt wird."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 140,
+      "question": {
+        "text": "Was macht ein Schöffe / eine Schöffin in Deutschland? Er / Sie…\n"
+      },
+      "answers": [
+        "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+        "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
+        "stellt Urkunden aus.",
+        "verteidigt den Angeklagten / die Angeklagte."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 141,
+      "question": {
+        "text": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?\n"
+      },
+      "answers": [
+        "ein Rechtsanwalt / eine Rechtsanwältin",
+        "ein Richter / eine Richterin",
+        "ein Schöffe / eine Schöffin",
+        "ein Staatsanwalt / eine Staatsanwältin"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 142,
+      "question": {
+        "text": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin …\n"
+      },
+      "answers": [
+        "vertritt Bürger und Bürgerinnen vor einem Gericht.",
+        "arbeitet an einem Gericht und spricht Urteile.",
+        "ändert Gesetze.",
+        "betreut Jugendliche vor Gericht."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 143,
+      "question": {
+        "text": "Ein Richter / eine Richterin in Deutschland gehört zur …\n"
+      },
+      "answers": [
+        "Judikative.",
+        "Exekutive.",
+        "Operative.",
+        "Legislative."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 144,
+      "question": {
+        "text": "Ein Richter / eine Richterin gehört in Deutschland zur …\n"
+      },
+      "answers": [
+        "vollziehenden Gewalt.",
+        "rechtsprechenden Gewalt.",
+        "planenden Gewalt.",
+        "gesetzgebenden Gewalt."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 145,
+      "question": {
+        "text": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die …\n"
+      },
+      "answers": [
+        "Judikative",
+        "Exekutive",
+        "Presse",
+        "Legislative"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 146,
+      "question": {
+        "text": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?\n"
+      },
+      "answers": [
+        "Programm",
+        "Prozedur",
+        "Protokoll",
+        "Prozess"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 147,
+      "question": {
+        "text": "Was ist die Arbeit eines Richters / einer Richterin in Deutschland?\n"
+      },
+      "answers": [
+        "Deutschland regieren",
+        "Recht sprechen",
+        "Pläne erstellen",
+        "Gesetze erlassen"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 148,
+      "question": {
+        "text": "Was ist eine Aufgabe der Polizei in Deutschland?\n"
+      },
+      "answers": [
+        "das Land zu verteidigen",
+        "die Bürgerinnen und Bürger abzuhören",
+        "die Gesetze zu beschließen",
+        "die Einhaltung von Gesetzen zu überwachen"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Verfassungsprinzipien"
+      }
+    },
+    {
+      "qid": 149,
+      "question": {
+        "text": "Wer kann Gerichtsschöffe / Gerichtsschöffin in Deutschland werden?\n"
+      },
+      "answers": [
+        "alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre",
+        "alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre",
+        "alle Personen, die seit mindestens 5 Jahren in Deutschland leben",
+        "nur Personen mit einem abgeschlossenen Jurastudium"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 150,
+      "question": {
+        "text": "Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist …\n"
+      },
+      "answers": [
+        "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+        "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+        "ein Mitglied eines Gemeinderats.",
+        "eine Person, die Jura studiert hat."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 151,
+      "question": {
+        "text": "Wer baute die Mauer in Berlin?\n"
+      },
+      "answers": [
+        "Großbritannien",
+        "die DDR",
+        "die Bundesrepublik Deutschland",
+        "die USA"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 152,
+      "question": {
+        "text": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?\n"
+      },
+      "answers": [
+        "1918 bis 1923",
+        "1932 bis 1950",
+        "1933 bis 1945",
+        "1945 bis 1989"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 153,
+      "question": {
+        "text": "Was war am 8. Mai 1945?\n"
+      },
+      "answers": [
+        "Tod Adolf Hitlers",
+        "Beginn des Berliner Mauerbaus",
+        "Wahl von Konrad Adenauer zum Bundeskanzler",
+        "Ende des Zweiten Weltkriegs in Europa"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 154,
+      "question": {
+        "text": "Wann war der Zweite Weltkrieg zu Ende?\n"
+      },
+      "answers": [
+        "1933",
+        "1945",
+        "1949",
+        "1961"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 155,
+      "question": {
+        "text": "Wann waren die Nationalsozialisten in Deutschland an der Macht?\n"
+      },
+      "answers": [
+        "1888 bis 1918",
+        "1921 bis 1934",
+        "1933 bis 1945",
+        "1949 bis 1963"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 156,
+      "question": {
+        "text": "In welchem Jahr wurde Hitler Reichskanzler?\n"
+      },
+      "answers": [
+        "1923",
+        "1927",
+        "1933",
+        "1936"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 157,
+      "question": {
+        "text": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …\n"
+      },
+      "answers": [
+        "eine Diktatur.",
+        "einen demokratischen Staat.",
+        "eine Monarchie.",
+        "ein Fürstentum."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 158,
+      "question": {
+        "text": "Das „Dritte Reich“ war eine …\n"
+      },
+      "answers": [
+        "Diktatur.",
+        "Demokratie.",
+        "Monarchie.",
+        "Räterepublik."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 159,
+      "question": {
+        "text": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?\n"
+      },
+      "answers": [
+        "freie Wahlen",
+        "Pressezensur",
+        "willkürliche Verhaftungen",
+        "Verfolgung der Juden"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 160,
+      "question": {
+        "text": "Welcher Krieg dauerte von 1939 bis 1945?\n"
+      },
+      "answers": [
+        "der Erste Weltkrieg",
+        "der Zweite Weltkrieg",
+        "der Vietnamkrieg",
+        "der Golfkrieg"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 161,
+      "question": {
+        "text": "Was kennzeichnete den NS- Staat? Eine Politik …\n"
+      },
+      "answers": [
+        "des staatlichen Rassismus",
+        "der Meinungsfreiheit",
+        "der allgemeinen Religionsfreiheit",
+        "der Entwicklung der Demokratie"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 162,
+      "question": {
+        "text": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …\n"
+      },
+      "answers": [
+        "eine Goldmedaille bei den Olympischen Spielen 1936.",
+        "den Bau des Reichstagsgebäudes.",
+        "den Aufbau der Wehrmacht.",
+        "das Attentat auf Hitler am 20. Juli 1944."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 163,
+      "question": {
+        "text": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?\n"
+      },
+      "answers": [
+        "1925",
+        "1930",
+        "1938",
+        "1945"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 164,
+      "question": {
+        "text": "Was passierte am 9. November 1938 in Deutschland?\n"
+      },
+      "answers": [
+        "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+        "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+        "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+        "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 165,
+      "question": {
+        "text": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "Konrad Adenauer",
+        "Kurt Georg Kiesinger",
+        "Helmut Schmidt",
+        "Willy Brandt"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 166,
+      "question": {
+        "text": "Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?\n"
+      },
+      "answers": [
+        "beim Arbeiteraufstand 1953 in der DDR",
+        "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+        "bei den Anti- Atomkraft- Demonstrationen 1985 in der Bundesrepublik Deutschland",
+        "bei den Montagsdemonstrationen 1989 in der DDR"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 167,
+      "question": {
+        "text": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?\n"
+      },
+      "answers": [
+        "Sowjetunion, Großbritannien, Polen, Schweden",
+        "Frankreich, Sowjetunion, Italien, Japan",
+        "USA, Sowjetunion, Spanien, Portugal",
+        "USA, Sowjetunion, Großbritannien, Frankreich"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 168,
+      "question": {
+        "text": "Welches Land war keine „Alliierte Besatzungsmacht“ in Deutschland?\n"
+      },
+      "answers": [
+        "USA",
+        "Sowjetunion",
+        "Frankreich",
+        "Japan"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 169,
+      "question": {
+        "text": "Wann wurde die Bundesrepublik Deutschland gegründet?\n"
+      },
+      "answers": [
+        "1939",
+        "1945",
+        "1949",
+        "1951"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 170,
+      "question": {
+        "text": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?\n"
+      },
+      "answers": [
+        "das Verbot von Parteien",
+        "das Recht zur freien Entfaltung der Persönlichkeit",
+        "Pressefreiheit",
+        "den Schutz der Menschenwürde"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 171,
+      "question": {
+        "text": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …\n"
+      },
+      "answers": [
+        "steuert sich allein nach Angebot und Nachfrage.",
+        "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+        "richtet sich nach der Nachfrage im Ausland.",
+        "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 172,
+      "question": {
+        "text": "In welcher Besatzungszone wurde die DDR gegründet? In der …\n"
+      },
+      "answers": [
+        "amerikanischen Besatzungszone",
+        "französischen Besatzungszone",
+        "britischen Besatzungszone",
+        "sowjetischen Besatzungszone"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 173,
+      "question": {
+        "text": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …\n"
+      },
+      "answers": [
+        "des Nordatlantikpakts (NATO).",
+        "der Vereinten Nationen (VN).",
+        "der Europäischen Union (EU).",
+        "des Warschauer Pakts."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 174,
+      "question": {
+        "text": "Wann wurde die DDR gegründet?\n"
+      },
+      "answers": [
+        "1947",
+        "1949",
+        "1953",
+        "1956"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 175,
+      "question": {
+        "text": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?\n"
+      },
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 176,
+      "question": {
+        "text": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?\n"
+      },
+      "answers": [
+        "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+        "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+        "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+        "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 177,
+      "question": {
+        "text": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?\n"
+      },
+      "answers": [
+        "München",
+        "Berlin",
+        "Dresden",
+        "Frankfurt/Oder"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 178,
+      "question": {
+        "text": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West- Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?\n"
+      },
+      "answers": [
+        "Für Frankreich war eine Versorgung der West- Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+        "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+        "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+        "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 179,
+      "question": {
+        "text": "Wie endete der Zweite Weltkrieg in Europa offiziell?\n"
+      },
+      "answers": [
+        "mit dem Tod Adolf Hitlers",
+        "durch die bedingungslose Kapitulation Deutschlands",
+        "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+        "durch eine Revolution in Deutschland"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 180,
+      "question": {
+        "text": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …\n"
+      },
+      "answers": [
+        "Ludwig Erhard.",
+        "Willy Brandt.",
+        "Konrad Adenauer.",
+        "Gerhard Schröder."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 181,
+      "question": {
+        "text": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?\n"
+      },
+      "answers": [
+        "Er hat sich den ehemaligen Alliierten unterworfen.",
+        "Er bat Polen und die polnischen Juden um Vergebung.",
+        "Er zeigte seine Demut vor dem Warschauer Pakt.",
+        "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 182,
+      "question": {
+        "text": "Welche Parteien wurden 1946 zwangsweise zur SED vereint, der Einheitspartei der späteren DDR?\n"
+      },
+      "answers": [
+        "KPD und SPD",
+        "SPD und CDU",
+        "CDU und FDP",
+        "KPD und CSU"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 183,
+      "question": {
+        "text": "Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?\n"
+      },
+      "answers": [
+        "40er Jahre",
+        "50er Jahre",
+        "70er Jahre",
+        "80er Jahre"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 184,
+      "question": {
+        "text": "Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“?\n"
+      },
+      "answers": [
+        "Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.",
+        "Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.",
+        "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
+        "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 185,
+      "question": {
+        "text": "Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …\n"
+      },
+      "answers": [
+        "des Warschauer Pakts gegen den Westen",
+        "Norddeutschlands gegen Süddeutschland",
+        "Nazi- Deutschlands gegen die Alliierten",
+        "Europas gegen die USA"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 186,
+      "question": {
+        "text": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?\n"
+      },
+      "answers": [
+        "1. Mai",
+        "17. Juni",
+        "20. Juli",
+        "9. November"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 187,
+      "question": {
+        "text": "Welcher deutsche Staat hatte eine schwarz- rot- goldene Flagge mit Hammer, Zirkel und Ährenkranz?\n"
+      },
+      "answers": [
+        "Preußen",
+        "Bundesrepublik Deutschland",
+        "„Drittes Reich“",
+        "DDR"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 188,
+      "question": {
+        "text": "In welchem Jahr wurde die Mauer in Berlin gebaut?\n"
+      },
+      "answers": [
+        "1953",
+        "1956",
+        "1959",
+        "1961"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 189,
+      "question": {
+        "text": "Wann baute die DDR die Mauer in Berlin?\n"
+      },
+      "answers": [
+        "1919",
+        "1933",
+        "1961",
+        "1990"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 190,
+      "question": {
+        "text": "Was bedeutet die Abkürzung DDR?\n"
+      },
+      "answers": [
+        "Dritter Deutscher Rundfunk",
+        "Die Deutsche Republik",
+        "Dritte Deutsche Republik",
+        "Deutsche Demokratische Republik"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 191,
+      "question": {
+        "text": "Wann wurde die Mauer in Berlin für alle geöffnet?\n"
+      },
+      "answers": [
+        "1987",
+        "1989",
+        "1992",
+        "1995"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 192,
+      "question": {
+        "text": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?\n"
+      },
+      "answers": [
+        "Brandenburg",
+        "Bayern",
+        "Saarland",
+        "Hessen"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 193,
+      "question": {
+        "text": "Von 1961 bis 1989 war Berlin …\n"
+      },
+      "answers": [
+        "ohne Bürgermeister.",
+        "ein eigener Staat.",
+        "durch eine Mauer geteilt.",
+        "nur mit dem Flugzeug erreichbar."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 194,
+      "question": {
+        "text": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …\n"
+      },
+      "answers": [
+        "Einheit.",
+        "Nation.",
+        "Bundesländer.",
+        "Städte."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 195,
+      "question": {
+        "text": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?\n"
+      },
+      "answers": [
+        "Hessen",
+        "Sachsen- Anhalt",
+        "Nordrhein- Westfalen",
+        "Saarland"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 196,
+      "question": {
+        "text": "Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch …\n"
+      },
+      "answers": [
+        "von einer Diktatur zur Demokratie.",
+        "von einer liberalen Marktwirtschaft zum Sozialismus.",
+        "von einer Monarchie zur Sozialdemokratie.",
+        "von einem religiösen Staat zu einem kommunistischen Staat."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 197,
+      "question": {
+        "text": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?\n"
+      },
+      "answers": [
+        "Thüringen",
+        "Hessen",
+        "Bayern",
+        "Bremen"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 198,
+      "question": {
+        "text": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?\n"
+      },
+      "answers": [
+        "Bayern",
+        "Niedersachsen",
+        "Sachsen",
+        "Baden- Württemberg"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 199,
+      "question": {
+        "text": "Mit der Abkürzung „Stasi“ meinte man in der DDR …\n"
+      },
+      "answers": [
+        "das Parlament.",
+        "das Ministerium für Staatssicherheit.",
+        "eine regierende Partei.",
+        "das Ministerium für Volksbildung."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 200,
+      "question": {
+        "text": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?\n"
+      },
+      "answers": [
+        "Hessen",
+        "Schleswig- Holstein",
+        "Mecklenburg- Vorpommern",
+        "Saarland"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 201,
+      "question": {
+        "text": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?\n"
+      },
+      "answers": [
+        "Niedersachsen, Nordrhein- Westfalen, Hessen, SchleswigHolstein, Brandenburg",
+        "Mecklenburg- Vorpommern, Brandenburg, Sachsen, Sachsen- Anhalt, Thüringen",
+        "Bayern, Baden- Württemberg, Rheinland- Pfalz, Thüringen, Sachsen",
+        "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 202,
+      "question": {
+        "text": "Zu wem gehörte die DDR im „Kalten Krieg“?\n"
+      },
+      "answers": [
+        "zu den Westmächten",
+        "zum Warschauer Pakt",
+        "zur NATO",
+        "zu den blockfreien Staaten"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 203,
+      "question": {
+        "text": "Wie hieß das Wirtschaftssystem der DDR?\n"
+      },
+      "answers": [
+        "Marktwirtschaft",
+        "Planwirtschaft",
+        "Angebot und Nachfrage",
+        "Kapitalismus"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 204,
+      "question": {
+        "text": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?\n"
+      },
+      "answers": [
+        "Die Bundesrepublik hat die DDR besetzt.",
+        "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+        "Die westlichen Bundesländer sind der DDR beigetreten.",
+        "Die DDR hat die Bundesrepublik Deutschland besetzt."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 205,
+      "question": {
+        "text": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …\n"
+      },
+      "answers": [
+        "zur Europäischen Union.",
+        "zum Warschauer Pakt.",
+        "zur OPEC.",
+        "zur Europäischen Verteidigungsgemeinschaft."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 206,
+      "question": {
+        "text": "Was bedeutete im Jahr 1989 in Deutschland das Wort „Montagsdemonstration“?\n"
+      },
+      "answers": [
+        "In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.",
+        "Montags waren Demonstrationen gegen das DDR Regime.",
+        "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
+        "Montags demonstrierte man in der DDR gegen den Westen."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 207,
+      "question": {
+        "text": "In welchem Militärbündnis war die DDR Mitglied?\n"
+      },
+      "answers": [
+        "in der NATO",
+        "im Rheinbund",
+        "im Warschauer Pakt",
+        "im Europabündnis"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 208,
+      "question": {
+        "text": "Was war die „Stasi“?\n"
+      },
+      "answers": [
+        "der Geheimdienst im „Dritten Reich“",
+        "eine berühmte deutsche Gedenkstätte",
+        "der Geheimdienst der DDR",
+        "ein deutscher Sportverein während des Zweiten Weltkrieges"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 209,
+      "question": {
+        "text": "Welches war das Wappen der Deutschen Demokratischen Republik?\n"
+      },
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 210,
+      "question": {
+        "text": "Was ereignete sich am 17. Juni 1953 in der DDR?\n"
+      },
+      "answers": [
+        "der feierliche Beitritt zum Warschauer Pakt",
+        "landesweite Streiks und ein Volksaufstand",
+        "der 1. SED- Parteitag",
+        "der erste Besuch Fidel Castros"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 211,
+      "question": {
+        "text": "Welcher Politiker steht für die „Ostverträge“?\n"
+      },
+      "answers": [
+        "Helmut Kohl",
+        "Willy Brandt",
+        "Michail Gorbatschow",
+        "Ludwig Erhard"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 212,
+      "question": {
+        "text": "Wie heißt Deutschland mit vollem Namen?\n"
+      },
+      "answers": [
+        "Bundesstaat Deutschland",
+        "Bundesländer Deutschland",
+        "Bundesrepublik Deutschland",
+        "Bundesbezirk Deutschland"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 213,
+      "question": {
+        "text": "Wie viele Einwohner hat Deutschland?\n"
+      },
+      "answers": [
+        "70 Millionen",
+        "78 Millionen",
+        "80 Millionen",
+        "90 Millionen"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 214,
+      "question": {
+        "text": "Welche Farben hat die deutsche Flagge?\n"
+      },
+      "answers": [
+        "schwarz- rot- gold",
+        "rot- weiß- schwarz",
+        "schwarz- rot- grün",
+        "schwarz- gelb- rot"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Staatssymbole"
+      }
+    },
+    {
+      "qid": 215,
+      "question": {
+        "text": "Wer wird als „Kanzler der Deutschen Einheit“ bezeichnet?\n"
+      },
+      "answers": [
+        "Gerhard Schröder",
+        "Helmut Kohl",
+        "Konrad Adenauer",
+        "Helmut Schmidt"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 216,
+      "question": {
+        "text": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?\n"
+      },
+      "answers": [
+        "der Bundesadler",
+        "die Fahne der Stadt Berlin",
+        "der Reichsadler",
+        "die Reichskrone"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Staatssymbole"
+      }
+    },
+    {
+      "qid": 217,
+      "question": {
+        "text": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?\n"
+      },
+      "answers": [
+        "1919 bis 1927",
+        "1933 bis 1945",
+        "1945 bis 1961",
+        "1949 bis 1990"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wichtige Stationen nach 1945"
+      }
+    },
+    {
+      "qid": 218,
+      "question": {
+        "text": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?\n"
+      },
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 219,
+      "question": {
+        "text": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …\n"
+      },
+      "answers": [
+        "1933.",
+        "1949.",
+        "1971.",
+        "1990."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 220,
+      "question": {
+        "text": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?\n"
+      },
+      "answers": [
+        "an das Ende des Zweiten Weltkrieges",
+        "an die Verabschiedung des Grundgesetzes",
+        "an die Wiedervereinigung Deutschlands",
+        "an die Opfer des Nationalsozialismus"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Der Nationalsozialismus und seine Folgen"
+      }
+    },
+    {
+      "qid": 221,
+      "question": {
+        "text": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+        "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+        "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+        "Deutsche können in jedem Land mit dem Euro bezahlen."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 222,
+      "question": {
+        "text": "Welches Land ist ein Nachbarland von Deutschland?\n"
+      },
+      "answers": [
+        "Ungarn",
+        "Portugal",
+        "Spanien",
+        "Schweiz"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 223,
+      "question": {
+        "text": "Welches Land ist ein Nachbarland von Deutschland?\n"
+      },
+      "answers": [
+        "Rumänien",
+        "Bulgarien",
+        "Polen",
+        "Griechenland"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 224,
+      "question": {
+        "text": "Was bedeutet die Abkürzung EU?\n"
+      },
+      "answers": [
+        "Europäische Unternehmen",
+        "Europäische Union",
+        "Einheitliche Union",
+        "Euro Union"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 225,
+      "question": {
+        "text": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?\n"
+      },
+      "answers": [
+        "Tschechien",
+        "Norwegen",
+        "Spanien",
+        "Österreich"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 226,
+      "question": {
+        "text": "Welche ist die Flagge der Europäischen Union?\n"
+      },
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 227,
+      "question": {
+        "text": "Welches Land ist ein Nachbarland von Deutschland?\n"
+      },
+      "answers": [
+        "Finnland",
+        "Dänemark",
+        "Norwegen",
+        "Schweden"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 228,
+      "question": {
+        "text": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?\n"
+      },
+      "answers": [
+        "NATO- Osterweiterung",
+        "EU- Osterweiterung",
+        "Deutsche Wiedervereinigung",
+        "Europäische Gemeinschaft"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Wiedervereinigung"
+      }
+    },
+    {
+      "qid": 229,
+      "question": {
+        "text": "Welches Land ist ein Nachbarland von Deutschland?\n"
+      },
+      "answers": [
+        "Spanien",
+        "Bulgarien",
+        "Norwegen",
+        "Luxemburg"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 230,
+      "question": {
+        "text": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …\n"
+      },
+      "answers": [
+        "5 Jahre.",
+        "6 Jahre.",
+        "7 Jahre.",
+        "8 Jahre."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 231,
+      "question": {
+        "text": "Was bedeutet der Begriff „europäische Integration“?\n"
+      },
+      "answers": [
+        "Damit sind amerikanische Einwanderer in Europa gemeint.",
+        "Der Begriff meint den Einwanderungsstopp nach Europa.",
+        "Damit sind europäische Auswanderer in den USA gemeint.",
+        "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 232,
+      "question": {
+        "text": "Wer wird bei der Europawahl gewählt?\n"
+      },
+      "answers": [
+        "die Europäische Kommission",
+        "die Länder, die in die EU eintreten dürfen",
+        "die Abgeordneten des Europäischen Parlaments",
+        "die europäische Verfassung"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 233,
+      "question": {
+        "text": "Welches Land ist ein Nachbarland von Deutschland?\n"
+      },
+      "answers": [
+        "Tschechien",
+        "Bulgarien",
+        "Griechenland",
+        "Portugal"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 234,
+      "question": {
+        "text": "Wo ist der Sitz des Europäischen Parlaments?\n"
+      },
+      "answers": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Straßburg"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 235,
+      "question": {
+        "text": "Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?\n"
+      },
+      "answers": [
+        "Freundschaft zwischen England und Deutschland",
+        "Reisefreiheit in alle Länder der EU",
+        "Frieden und Sicherheit in den Ländern der EU",
+        "einheitliche Feiertage in den Ländern der EU"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 236,
+      "question": {
+        "text": "Wie viele Mitgliedstaaten hat die EU heute?\n"
+      },
+      "answers": [
+        "21",
+        "23",
+        "25",
+        "28"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 237,
+      "question": {
+        "text": "2007 wurde das 50- jährige Jubiläum der „Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?\n"
+      },
+      "answers": [
+        "Beitritt Deutschlands zur NATO",
+        "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+        "Verpflichtung Deutschlands zu Reparationsleistungen",
+        "Festlegung der Oder- Neiße- Linie als Ostgrenze"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 238,
+      "question": {
+        "text": "An welchen Orten arbeitet das Europäische Parlament?\n"
+      },
+      "answers": [
+        "Paris, London und Den Haag",
+        "Straßburg, Luxemburg und Brüssel",
+        "Rom, Bern und Wien",
+        "Bonn, Zürich und Mailand"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 239,
+      "question": {
+        "text": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?\n"
+      },
+      "answers": [
+        "durch die „Hamburger Verträge“",
+        "durch die „Römischen Verträge“",
+        "durch die „Pariser Verträge“",
+        "durch die „Londoner Verträge“"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 240,
+      "question": {
+        "text": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?\n"
+      },
+      "answers": [
+        "1995",
+        "1998",
+        "2002",
+        "2005"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Geschichte und Verantwortung",
+        "topic": "Deutschland in Europa"
+      }
+    },
+    {
+      "qid": 241,
+      "question": {
+        "text": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?\n"
+      },
+      "answers": [
+        "Sie muss an ihre Krankenkasse schreiben.",
+        "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+        "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+        "Sie muss das Arbeitsamt um Erlaubnis bitten."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 242,
+      "question": {
+        "text": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?\n"
+      },
+      "answers": [
+        "der Staat",
+        "die Bundesländer",
+        "die Eltern / die Erziehungsberechtigten",
+        "die Schulen"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 243,
+      "question": {
+        "text": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?\n"
+      },
+      "answers": [
+        "Sie müssen die Demonstration anmelden.",
+        "Sie müssen nichts tun. Man darf in Deutschland jeder Zeit überall demonstrieren.",
+        "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+        "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 244,
+      "question": {
+        "text": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?\n"
+      },
+      "answers": [
+        "das Abitur",
+        "ein Diplom",
+        "die Prokura",
+        "eine Gesellenprüfung"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 245,
+      "question": {
+        "text": "Wer darf in Deutschland nicht als Paar zusammenleben?\n"
+      },
+      "answers": [
+        "Hans (20 Jahre) und Marie (19 Jahre)",
+        "Tom (20 Jahre) und Klaus (45 Jahre)",
+        "Sofie (35 Jahre) und Lisa (40 Jahre)",
+        "Anne (13 Jahre) und Tim (25 Jahre)"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 246,
+      "question": {
+        "text": "Ab welchem Alter ist man in Deutschland volljährig?\n"
+      },
+      "answers": [
+        "16",
+        "18",
+        "19",
+        "21"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 247,
+      "question": {
+        "text": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?\n"
+      },
+      "answers": [
+        "Elternzeit",
+        "Mutterschutz",
+        "Geburtsvorbereitung",
+        "Wochenbett"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 248,
+      "question": {
+        "text": "Die Erziehung der Kinder in Deutschland ist vor allem Aufgabe …\n"
+      },
+      "answers": [
+        "des Staates.",
+        "der Eltern.",
+        "der Großeltern.",
+        "der Schulen."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 249,
+      "question": {
+        "text": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?\n"
+      },
+      "answers": [
+        "der Staat",
+        "die Eltern",
+        "die Verwandten",
+        "die Schulen"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 250,
+      "question": {
+        "text": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …\n"
+      },
+      "answers": [
+        "katholisch ist.",
+        "gut ausgebildet ist.",
+        "eine Frau ist.",
+        "Mitglied einer Partei ist."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 251,
+      "question": {
+        "text": "Wenn man in Deutschland ein Kind schlägt, …\n"
+      },
+      "answers": [
+        "geht das niemanden etwas an.",
+        "geht das nur die Familie etwas an.",
+        "kann man dafür nicht bestraft werden.",
+        "kann man dafür bestraft werden."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 252,
+      "question": {
+        "text": "In Deutschland …\n"
+      },
+      "answers": [
+        "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+        "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+        "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+        "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 253,
+      "question": {
+        "text": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?\n"
+      },
+      "answers": [
+        "beim Einwohnermeldeamt",
+        "beim Standesamt",
+        "beim Ordnungsamt",
+        "beim Gewerbeamt"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 254,
+      "question": {
+        "text": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Der Scheidungsprozess dauert ein Jahr.",
+        "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+        "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+        "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 255,
+      "question": {
+        "text": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …\n"
+      },
+      "answers": [
+        "Ordnungsamt.",
+        "Schulamt.",
+        "Jugendamt.",
+        "Gesundheitsamt."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 256,
+      "question": {
+        "text": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?\n"
+      },
+      "answers": [
+        "eine Erlaubnis der Polizei",
+        "eine Genehmigung einer Partei",
+        "eine Genehmigung des Einwohnermeldeamts",
+        "eine Gaststättenerlaubnis von der zuständigen Behörde"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 257,
+      "question": {
+        "text": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …\n"
+      },
+      "answers": [
+        "einer Hochschule.",
+        "einem Abendgymnasium.",
+        "einer Hauptschule.",
+        "einer Privatuniversität."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 258,
+      "question": {
+        "text": "Was darf das Jugendamt in Deutschland?\n"
+      },
+      "answers": [
+        "Es entscheidet, welche Schule das Kind besucht.",
+        "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+        "Es bezahlt das Kindergeld an die Eltern.",
+        "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 259,
+      "question": {
+        "text": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …\n"
+      },
+      "answers": [
+        "Rentenberechnung.",
+        "Lehrstellensuche.",
+        "Steuererklärung.",
+        "Krankenversicherung."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 260,
+      "question": {
+        "text": "In Deutschland hat ein Kind in der Schule …\n"
+      },
+      "answers": [
+        "Recht auf unbegrenzte Freizeit.",
+        "Wahlfreiheit für alle Fächer.",
+        "Anspruch auf Schulgeld.",
+        "Anwesenheitspflicht."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 261,
+      "question": {
+        "text": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …\n"
+      },
+      "answers": [
+        "einer Hochschule",
+        "einem Abendgymnasium",
+        "einer Hauptschule",
+        "einer Privatuniversität"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 262,
+      "question": {
+        "text": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?\n"
+      },
+      "answers": [
+        "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+        "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+        "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+        "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 263,
+      "question": {
+        "text": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …\n"
+      },
+      "answers": [
+        "werden bestraft.",
+        "werden wie Erwachsene behandelt.",
+        "teilen die Strafe mit ihren Eltern.",
+        "werden nicht bestraft."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 264,
+      "question": {
+        "text": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?\n"
+      },
+      "answers": [
+        "am Rosenmontag",
+        "am Maifeiertag",
+        "beim Oktoberfest",
+        "an Pfingsten"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Interkulturelles Zusammenleben"
+      }
+    },
+    {
+      "qid": 265,
+      "question": {
+        "text": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?\n"
+      },
+      "answers": [
+        "zum Einwohnermeldeamt",
+        "zum Ordnungsamt",
+        "zur Agentur für Arbeit",
+        "zum Standesamt"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 266,
+      "question": {
+        "text": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?\n"
+      },
+      "answers": [
+        "wenn die Sonne untergeht",
+        "wenn die Nachbarn schlafen gehen",
+        "um 0 Uhr, Mitternacht",
+        "um 22 Uhr"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 267,
+      "question": {
+        "text": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?\n"
+      },
+      "answers": [
+        "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+        "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+        "Sie können zur Polizei gehen und die Tochter anzeigen.",
+        "Sie suchen einen anderen Mann für die Tochter."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 268,
+      "question": {
+        "text": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?\n"
+      },
+      "answers": [
+        "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+        "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+        "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+        "Sie kann die Theorie- Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 269,
+      "question": {
+        "text": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …\n"
+      },
+      "answers": [
+        "monatliches Taschengeld.",
+        "einen Platz in einem Sportverein.",
+        "einen Kindergartenplatz.",
+        "einen Ferienpass."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 270,
+      "question": {
+        "text": "Die Volkshochschule in Deutschland ist eine Einrichtung …\n"
+      },
+      "answers": [
+        "für den Religionsunterricht.",
+        "nur für Jugendliche.",
+        "zur Weiterbildung.",
+        "nur für Rentner und Rentnerinnen."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 271,
+      "question": {
+        "text": "Was ist in Deutschland ein Brauch zu Weihnachten?\n"
+      },
+      "answers": [
+        "bunte Eier verstecken",
+        "einen Tannenbaum schmücken",
+        "sich mit Masken und Kostümen verkleiden",
+        "Kürbisse vor die Tür stellen"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Interkulturelles Zusammenleben"
+      }
+    },
+    {
+      "qid": 272,
+      "question": {
+        "text": "Welche Lebensform ist in Deutschland nicht erlaubt?\n"
+      },
+      "answers": [
+        "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+        "Zwei Frauen leben zusammen.",
+        "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+        "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 273,
+      "question": {
+        "text": "Bei Erziehungsproblemen gehen Sie in Deutschland …\n"
+      },
+      "answers": [
+        "zum Arzt / zur Ärztin.",
+        "zum Gesundheitsamt.",
+        "zum Einwohnermeldeamt.",
+        "zum Jugendamt."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 274,
+      "question": {
+        "text": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?\n"
+      },
+      "answers": [
+        "das Schweigerecht",
+        "das Briefgeheimnis",
+        "die Schweigepflicht",
+        "die Meinungsfreiheit"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 275,
+      "question": {
+        "text": "Was braucht man in Deutschland für eine Ehescheidung?\n"
+      },
+      "answers": [
+        "die Einwilligung der Eltern",
+        "ein Attest eines Arztes / einer Ärztin",
+        "die Einwilligung der Kinder",
+        "die Unterstützung eines Anwalts / einer Anwältin"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 276,
+      "question": {
+        "text": "Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?\n"
+      },
+      "answers": [
+        "Ich kann nichts tun.",
+        "Ich muss mir diese Behandlung gefallen lassen.",
+        "Ich drohe der Person.",
+        "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 277,
+      "question": {
+        "text": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …\n"
+      },
+      "answers": [
+        "kein Englisch spricht.",
+        "zu hohe Gehaltsvorstellungen hat.",
+        "keine Erfahrungen in diesem Beruf hat.",
+        "Mutter ist."
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 278,
+      "question": {
+        "text": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …\n"
+      },
+      "answers": [
+        "im Rollstuhl sitzt.",
+        "keine Erfahrung hat.",
+        "zu hohe Gehaltsvorstellungen hat.",
+        "kein Englisch spricht."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 279,
+      "question": {
+        "text": "In den meisten Mietshäusern in Deutschland gibt es eine „Hausordnung“. Was steht in einer solchen „Hausordnung“? Sie nennt …\n"
+      },
+      "answers": [
+        "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+        "alle Mieter und Mieterinnen im Haus.",
+        "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+        "die Adresse des nächsten Ordnungsamtes."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 280,
+      "question": {
+        "text": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …\n"
+      },
+      "answers": [
+        "nichts machen.",
+        "den Bescheid wegwerfen.",
+        "Einspruch einlegen.",
+        "warten, bis ein anderer Bescheid kommt."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 281,
+      "question": {
+        "text": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf ...\n"
+      },
+      "answers": [
+        "Meinungsfreiheit.",
+        "Gleichbehandlung.",
+        "Versammlungsfreiheit.",
+        "Freizügigkeit."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 282,
+      "question": {
+        "text": "Welches Ehrenamt müssen deutsche Staatsbürger / Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?\n"
+      },
+      "answers": [
+        "Vereinstrainer / Vereinstrainerin",
+        "Wahlhelfer / Wahlhelferin",
+        "Bibliotheksaufsicht",
+        "Lehrer / Lehrerin"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Pflichten"
+      }
+    },
+    {
+      "qid": 283,
+      "question": {
+        "text": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?\n"
+      },
+      "answers": [
+        "Ich lasse die Rechnung liegen.",
+        "Ich lege Widerspruch bei der Behörde ein.",
+        "Ich schicke die Rechnung an die Behörde zurück.",
+        "Ich gehe mit der Rechnung zum Finanzamt."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 284,
+      "question": {
+        "text": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?\n"
+      },
+      "answers": [
+        "Es ist egal, was man lernt.",
+        "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+        "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+        "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Bildung"
+      }
+    },
+    {
+      "qid": 285,
+      "question": {
+        "text": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?\n"
+      },
+      "answers": [
+        "Lohnsteuer",
+        "Beiträge zur Arbeitslosenversicherung",
+        "Beiträge zur Renten- und Krankenversicherung",
+        "Umsatzsteuer"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Sozialsystem"
+      }
+    },
+    {
+      "qid": 286,
+      "question": {
+        "text": "Welche Organisation in einer Firma hilft den Arbeitnehmern und  Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?\n"
+      },
+      "answers": [
+        "der Betriebsrat",
+        "der Betriebsprüfer / die Betriebsprüferin",
+        "die Betriebsgruppe",
+        "das Betriebsmanagement"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 287,
+      "question": {
+        "text": "Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?\n"
+      },
+      "answers": [
+        "die Gehaltszahlungen",
+        "die Arbeitszeit",
+        "die Kündigungsfrist",
+        "die Versicherungspflicht"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 288,
+      "question": {
+        "text": "Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?\n"
+      },
+      "answers": [
+        "beim Finanzamt",
+        "beim Einwohnermeldeamt",
+        "bei der Kommune (Stadt oder Gemeinde)",
+        "beim Gesundheitsamt"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Kommune"
+      }
+    },
+    {
+      "qid": 289,
+      "question": {
+        "text": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …\n"
+      },
+      "answers": [
+        "seine Deutschkenntnisse zu gering sind.",
+        "er zu hohe Gehaltsvorstellungen hat.",
+        "er eine dunkle Haut hat.",
+        "er keine Erfahrungen im Beruf hat."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Grundrechte"
+      }
+    },
+    {
+      "qid": 290,
+      "question": {
+        "text": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?\n"
+      },
+      "answers": [
+        "eine Anzeige schreiben",
+        "den Fernseher reklamieren",
+        "das Gerät ungefragt austauschen",
+        "die Garantie verlängern"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 291,
+      "question": {
+        "text": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil ...\n"
+      },
+      "answers": [
+        "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+        "das für die Statistik in Deutschland wichtig ist.",
+        "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+        "die Kirche für die Steuererklärung verantwortlich ist."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Politik in der Demokratie",
+        "topic": "Recht und Alltag"
+      }
+    },
+    {
+      "qid": 292,
+      "question": {
+        "text": "Die Menschen in Deutschland leben nach dem Grundsatz der religösen Toleranz. Was bedeutet das?\n"
+      },
+      "answers": [
+        "Es dürfen keine Moscheen gebaut werden.",
+        "Alle Menschen glauben an Gott.",
+        "Jeder kann glauben, was er möchte.",
+        "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Religiöse Vielfalt"
+      }
+    },
+    {
+      "qid": 293,
+      "question": {
+        "text": "Was ist in Deutschland ein Brauch an Ostern?\n"
+      },
+      "answers": [
+        "Kürbisse vor die Tür stellen",
+        "einen Tannenbaum schmücken",
+        "Eier bemalen",
+        "Raketen in die Luft schießen"
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Interkulturelles Zusammenleben"
+      }
+    },
+    {
+      "qid": 294,
+      "question": {
+        "text": "Pfingsten ist ein …\n"
+      },
+      "answers": [
+        "christlicher Feiertag.",
+        "deutscher Gedenktag.",
+        "internationaler Trauertag.",
+        "bayerischer Brauch."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Religiöse Vielfalt"
+      }
+    },
+    {
+      "qid": 295,
+      "question": {
+        "text": "Welche Religion hat die europäische und deutsche Kultur geprägt?\n"
+      },
+      "answers": [
+        "der Hinduismus",
+        "das Christentum",
+        "der Buddhismus",
+        "der Islam"
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Religiöse Vielfalt"
+      }
+    },
+    {
+      "qid": 296,
+      "question": {
+        "text": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …\n"
+      },
+      "answers": [
+        "den Buß- und Bettag.",
+        "das Erntedankfest.",
+        "die Adventszeit.",
+        "Allerheiligen."
+      ],
+      "metadata": {
+        "rightAnswer": 2,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Religiöse Vielfalt"
+      }
+    },
+    {
+      "qid": 297,
+      "question": {
+        "text": "Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?\n"
+      },
+      "answers": [
+        "Italien",
+        "Polen",
+        "Marokko",
+        "Türkei"
+      ],
+      "metadata": {
+        "rightAnswer": 3,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Migrationsgeschichte"
+      }
+    },
+    {
+      "qid": 298,
+      "question": {
+        "text": "In der DDR lebten vor allem Migranten aus …\n"
+      },
+      "answers": [
+        "Vietnam, Polen, Mosambik.",
+        "Frankreich, Rumänien, Somalia.",
+        "Chile, Ungarn, Simbabwe.",
+        "Nordkorea, Mexiko, Ägypten."
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Migrationsgeschichte"
+      }
+    },
+    {
+      "qid": 299,
+      "question": {
+        "text": "Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er- und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …\n"
+      },
+      "answers": [
+        "Schwarzarbeiter / Schwarzarbeiterinnen.",
+        "Gastarbeiter / Gastarbeiterinnen.",
+        "Zeitarbeiter /Zeitarbeiterinnen.",
+        "Schichtarbeiter / Schichtarbeiterinnen."
+      ],
+      "metadata": {
+        "rightAnswer": 1,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Migrationsgeschichte"
+      }
+    },
+    {
+      "qid": 300,
+      "question": {
+        "text": "Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen in die Bundesrepublik Deutschland?\n"
+      },
+      "answers": [
+        "Italien",
+        "Spanien",
+        "Portugal",
+        "Türkei"
+      ],
+      "metadata": {
+        "rightAnswer": 0,
+        "type": "general",
+        "region": "none",
+        "category": "Mensch und Gesellschaft",
+        "topic": "Migrationsgeschichte"
+      }
+    }
+  ]
