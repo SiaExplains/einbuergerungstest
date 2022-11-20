@@ -7,6 +7,7 @@ import { HomeScreen } from './screens/home.screen';
 import { QuestionScreen } from './screens/questions.screen';
 import { AboutScreen } from './screens/about.screen';
 import { HelpScreen } from './screens/help.screen';
+import { View } from 'react-native';
 
 const Stack = createNativeStackNavigator();
 
